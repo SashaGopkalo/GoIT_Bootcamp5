@@ -1,0 +1,30 @@
+body{
+    background: slategray;
+}
+main{
+    margin: auto;
+    width: 420px;
+    background: whitesmoke;
+}
+header {
+    margin: auto;
+    width: 420px;
+    background:lightslategrey;
+}
+footer{
+    margin: auto;
+    width: 420px;
+    text-align: center;
+}
+.box1{
+    background: lightblue;
+}
+h2{
+    color: darkblue;
+}
+button{
+    margin: auto;
+
+    color: white;
+    background: cornflowerblue;
+}
